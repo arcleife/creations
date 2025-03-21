@@ -1,0 +1,3 @@
+[submodule "web/themes/nightfall"]
+	path = web/themes/nightfall
+	url = https://github.com/lordmathis/hugo-theme-nightfall.git

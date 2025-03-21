@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, world on Muhamad Rizky Yanuar - Creations</title>
+    <link>http://0.0.0.0:3000/</link>
+    <description>Recent content in Hello, world on Muhamad Rizky Yanuar - Creations</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>mryanuar21@gmail.com (Muhamad Rizky Yanuar)</managingEditor>
+    <webMaster>mryanuar21@gmail.com (Muhamad Rizky Yanuar)</webMaster>
+    <lastBuildDate>Fri, 21 Mar 2025 21:33:39 +0900</lastBuildDate>
+    <atom:link href="http://0.0.0.0:3000/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://0.0.0.0:3000/about/</link>
+      <pubDate>Fri, 21 Mar 2025 21:33:39 +0900</pubDate><author>mryanuar21@gmail.com (Muhamad Rizky Yanuar)</author>
+      <guid>http://0.0.0.0:3000/about/</guid>
+      <description>&lt;h1 id=&#34;lorem-ipsum-dolor-sit-amet&#34;&gt;Lorem ipsum dolor sit amet&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
