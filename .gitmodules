@@ -1,3 +1,6 @@
 [submodule "web/themes/nightfall"]
 	path = web/themes/nightfall
 	url = https://github.com/lordmathis/hugo-theme-nightfall.git
+[submodule "ids-generator"]
+	path = ids-generator
+	url = git@github.com:arcleife/ids-generator.git
