@@ -3,6 +3,9 @@ services:
         build: .
         ports:
             - "80:80"
-
         volumes:
             - ./web/public:/usr/share/nginx/html
+    ids-generator-api:
+        build: ./ids-generator
+        ports:
+            - "4000:4000"
