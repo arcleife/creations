@@ -5,7 +5,15 @@ services:
             - "80:80"
         volumes:
             - ./web/public:/usr/share/nginx/html
+        depends_on:
+            - ids-generator-frontend
     ids-generator-api:
         build: ./ids-generator
         ports:
             - "4000:4000"
+    ids-generator-frontend:
+        build: ./ids-generator/web
+        ports:
+            - "4001:4001"
+        depends_on:
+            - ids-generator-api
